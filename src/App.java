@@ -10,7 +10,7 @@ public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in); 
     System.out.println("Welcome to Angelo's Pizza!\n"); 
  
-    // Menu with different kind of pizza's
+    // Menu with different kind of pizzas
     Menu menu = new Menu(10); 
     menu.addPizza(new Pizza("Cheese Pizza", 12.99, "Large")); 
     menu.addPizza(new Pizza("Pepperoni Pizza", 13.99, "Large")); 
