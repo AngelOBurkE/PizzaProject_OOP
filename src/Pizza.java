@@ -1,8 +1,8 @@
 /*
-Name: Angelo Burke 
-Date: Nov 29, 2025 
-Assignment: SDC330 Course Project - Class Implementation
-Description: Represents a single pizza item. 
+* Name: Angelo Burke 
+* Date: Dec 4, 2025 
+* Assignment: SDC330 Course Project - Class Implementation
+* Description: Represents a single pizza item. 
 */
 public class Pizza { 
 private String name; 

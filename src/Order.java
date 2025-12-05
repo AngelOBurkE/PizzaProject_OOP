@@ -1,8 +1,8 @@
 /*
-Name: Angelo Burke 
-Date: Nov 29, 2025 
-Assignment: SDC330 Course Project - Class Implementation
-Description: Represents an order with customer, cart, tax, and estimated delivery. 
+* Name: Angelo Burke 
+* Date: Dec 4, 2025 
+* Assignment: SDC330 Course Project - Class Implementation
+* Description: Represents an order with customer, cart, tax, and estimated delivery. 
 */ 
 public class Order { 
 private Customer customer; 
